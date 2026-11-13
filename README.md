@@ -1,2 +1,2 @@
-#WAD-324
+#--WAD-324--
 This repo is for Web Development Application project. Project name is "Career Compass" which is about career counselling of students. Students can submit assessment and AI generated results will be shown in order to guide them which career path suits them the most according to their interests. This website also provides the facility of exploring different careers.
